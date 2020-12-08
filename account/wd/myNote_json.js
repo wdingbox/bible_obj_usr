@@ -3,7 +3,7 @@ var _bnotes=
     "Gen": {
         "1": {
             "1": "\n<ol>\n\t<li>@test is ok22&nbsp;(Jhn1:1) (Jhn1:12)kkkkjjjj=== koklklklkkljkjk klkl mmmmmm&nbsp;</li>\n\t<li>oooo</li>\n\t<li>==ppppp</li>\n\t<li>kk</li>\n</ol>\n",
-            "2": "Tws",
+            "2": "<ol><li>--</li></ol>",
             "3": "1) Proverbs 8:30. 2) we plural 3) light is Jesus 4) spirit over water 1:2 and mat14:25",
             "4": "",
             "5": "",
