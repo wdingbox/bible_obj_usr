@@ -3,8 +3,8 @@ var _bnotes=
     "Gen": {
         "1": {
             "1": "\n<ol>\n\t<li>@test is ok22&nbsp;(Jhn1:1) (Jhn1:12)kkkkjjjj=== koklklklkkljkjk klkl mmmmmm&nbsp;</li>\n\t<li>oooo</li>\n\t<li>==ppppp</li>\n\t<li>kk</li>\n</ol>\n",
-            "2": "<ol><li>--</li></ol>",
-            "3": "1) Proverbs 8:30. 2) we plural 3) light is Jesus 4) spirit over water 1:2 and mat14:25",
+            "2": "\n<ol>\n\t<li>--</li>\n\t<li>formless&nbsp;</li>\n\t<li>invisible</li>\n</ol>\n",
+            "3": "\n<ol>\n\t<li>1) Proverbs 8:30.&nbsp;</li>\n\t<li>we plural&nbsp;</li>\n\t<li>&nbsp;light is Jesus&nbsp;</li>\n\t<li>&nbsp;spirit over water 1:2 and mat14:25</li>\n\t<li>uu</li>\n</ol>\n",
             "4": "",
             "5": "",
             "6": "",
@@ -323,10 +323,10 @@ var _bnotes=
             "32": ""
         },
         "12": {
-            "1": "",
-            "2": "",
+            "1": "<ol><li>Motherland</li><li>Race</li><li>Family&nbsp;</li></ol>",
+            "2": "<ol><li>Great nation</li><li>Great name</li><li>Be Blessed</li><li>Be helped&nbsp;</li><li>The light and bless of all nations&nbsp;</li><li>Give this land to your offspring. (7)</li></ol>",
             "3": "",
-            "4": "",
+            "4": "<ol><li>Abraham started @75, Died @ 175. Immigrant for 100 years.&nbsp;</li><li>Sara started 65 died @ 127.&nbsp;</li><li>Issac born @100 of Abraham, married @40. Twin @60</li></ol>",
             "5": "",
             "6": "",
             "7": "",
@@ -618,15 +618,15 @@ var _bnotes=
             "24": ""
         },
         "23": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
+            "1": "\n<div>\n<h5>Common secular delima</h5>\n\n<ol>\n\t<li>Ages: Abraham 137, Isaac 37. The death of Sara occurred after test. So Isaac was likely about 33 close to the age of Jesus on cross -- many people cannot accept virgins birth of Jesus. It is not something new but has been hinted and predicted again and again in ancient time before Jesus. Isaac: virgin birth of Jesus; Joseph: the administration of Jesus.&nbsp;</li>\n\t<li>Close kinship marriage: Sara is the younger sister of Abraham&rsquo;s father. The higher the human age, the more like the kinship marriage.&nbsp;<br />\n\tTypes of woman pregnancy&nbsp;(1) biological&nbsp;(2) spiritual pregnancy. Both were accounted in ancient Chinese books. It&rsquo;s not strange that Jesus was born from Virgin Mary. Human gen is devolution process due the sins.&nbsp;</li>\n\t<li>Takeaway from &nbsp;Abraham:<br />\n\t(1) Mormon&nbsp;follows&nbsp;errorless follow Abraham.<br />\n\t(2) Noah and the great men in ancient times are greater than Abraham<br />\n\t(3) The key of Abraham is the trust of the Lord.<br />\n\t(4)&nbsp;The only perfect person we should learn is Jesus. No righteousness in the world. Do not search idols among them.&nbsp;</li>\n</ol>\n</div>\n",
+            "2": "\n<div>\n<ol>\n\t<li>mourn: in heart in inner spiritual part. Is invisible and &nbsp;Cannot be pretentious.&nbsp;</li>\n\t<li>Weep: in feeling physically when harmed. Is visible. Can be pretended.&nbsp;</li>\n</ol><div>Why did Abraham mourn and weep? He was so sad that he couldn’t stand until he finally rose from beside his dead wife (3).&nbsp;</div><div><ol><li>Devoted follower of Abraham. The first and only women God renamed.&nbsp;</li><li>beautiful, the sister of Abraham, the most closest buddy, the most comprehensive, &nbsp;</li><li>2x to save husband</li><li>Follow husband, husband follow God. Model family.&nbsp;</li><li>give servant to Abraham for son. Islam.&nbsp;</li><li>delivery a son for Abraham.</li><li>jealous the servant son because of Isaac. Jesus came into our life, the fake one will be driven away.&nbsp;</li><li><br></li></ol></div>\n\n<div>&nbsp;</div>\n</div>\n",
+            "3": "<ol><li>It’s not easy for him to standup with such sorrows. The driven power for Abraham to rise from his dead wife is the faith of God. He has hope and his hope was his son. If no son, old Abraham would not live. Abraham could truly standup in front of us today is because Jesus rose from death. Abraham defeated the temptation and finished the mission that God gave to him.&nbsp;</li></ol>",
+            "4": "<ol><li>Remember we are alien and strangers. Immigrants have disadvantages in worldly life but have advantages in spiritual life.&nbsp;</li><li>Death in foreign land. Did not move back and burry at home country.&nbsp;</li></ol>",
             "5": "",
-            "6": "",
-            "7": "",
+            "6": "<ol><li>Abraham was a well known mighty prince. It’s part of God’s promises.&nbsp;</li><li>Abraham was beloved and respected.&nbsp;</li></ol>",
+            "7": "<ol><li>Bow down and worship are different.&nbsp;</li><li>Why did Abraham bow down? It’s disappointed. Sadness, love of Sara, immigrant, weakness because of the old age.&nbsp;</li></ol>",
             "8": "",
-            "9": "",
+            "9": "<ol><li>Justice of Abraham.&nbsp;</li><li>Never bargain in business but bargain with God to save the life of Lot.&nbsp;</li><li>The cave for Sara and the cave of  Jesus. Both cave belong to the rich, other. They did not prepare tomb ahead for themselves.&nbsp;</li></ol>",
             "10": "",
             "11": "",
             "12": "",
@@ -637,7 +637,7 @@ var _bnotes=
             "17": "",
             "18": "",
             "19": "",
-            "20": ""
+            "20": "<ol><li>Abraham bought the land of cannon.&nbsp;</li><li>God promised Abraham that I will give your land to your offsprings. 12:7&nbsp;</li></ol>"
         },
         "24": {
             "1": "",
@@ -709,12 +709,12 @@ var _bnotes=
             "67": ""
         },
         "25": {
-            "1": "",
+            "1": "<ol><li>Abraham had more wife not because of the adulteration but because of the misunderstanding to accomplish and see the mission of God.&nbsp;</li><li>Lessons. God’s way is slow. Man is eager to see immediately.&nbsp;</li></ol>",
             "2": "",
             "3": "",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "<ol><li>Is Chinese oracles come from one of them? &nbsp;--</li></ol>",
             "7": "",
             "8": "",
             "9": "",
