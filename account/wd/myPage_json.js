@@ -640,7 +640,7 @@ var _bnotes=
             "20": ""
         },
         "24": {
-            "1": "<ol>\n\t<li>\"隐秘的事、是属耶和华我们　神的、惟有明显的事、是永远属我们和我们子孙的、好叫我们遵行这律法上的一切话。\" (<a href=\"#Deu29:29\">Deu29:29</a> CUVS)</li>\n\t<li>What is the bless? to better understanding the blessing of God. (a) Time: eternal vs temporary. The promise of God never change.&nbsp;&nbsp;(b) Range: human salvation (all nations) vs personal blessing.&nbsp; (c)Vision: visible vs invisible (d)Intellectual: known vs unknown (e)Spiritual: earthly vs heavenly.&nbsp;慈爱诚实</li>\n\t<li>Chinese love blessing (hear,watch, decorating) But don’t know what’s it, the origin.&nbsp;</li>\n</ol>",
+            "1": "<ol>\n\t<li>\"隐秘的事、是属耶和华我们　神的、惟有明显的事、是永远属我们和我们子孙的、好叫我们遵行这律法上的一切话。\" (<a href=\"#Deu29:29\">Deu29:29</a> CUVS)</li>\n\t<li>What is the bless? to better understanding the blessing of God. (a) Time: eternal vs temporary. The promise of God never change.&nbsp;&nbsp;(b) Range: human salvation (all nations) vs personal blessing.&nbsp; (c)Vision: visible vs invisible (d)Intellectual: known vs unknown (e)Spiritual: earthly vs heavenly.&nbsp;慈爱诚实</li>\n\t<li>Chinese love blessing (hear,watch, decorating) But don’t know what’s it, the origin.&nbsp;</li><li><br></li>\n</ol>",
             "2": "",
             "3": "<ol><li>Why Canaanites are cursed by Noah. (Why God's love/grace?)&nbsp;</li><li>Cannaanites in OT, Pharisees in NT.&nbsp;</li><li>Missionology: Christians should not marry non-Christian.&nbsp;&nbsp;<a href=\"#Rom12:2\">Rom12:2</a>)</li><li>In general, but not absolute.&nbsp;</li><li>Abraham's obscure and&nbsp;explicit.&nbsp;</li><li>How Abraham loved his son? What is the most important thing?</li><li>--</li></ol>",
             "4": "",
