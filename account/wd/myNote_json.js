@@ -2,7 +2,7 @@ var _bnotes=
 {
     "Gen": {
         "1": {
-            "1": "\n<ol>\n\t<li>@test is</li>\n</ol>\n",
+            "1": "\n<ol>\n\t<li>@test i</li>\n</ol>\n",
             "2": "\n<ol>\n\t<li>--</li>\n\t<li>formless&nbsp;</li>\n\t<li>invisible</li>\n</ol>\n",
             "3": "\n<ol>\n\t<li>1) Proverbs 8:30.&nbsp;</li>\n\t<li>we plural&nbsp;</li>\n\t<li>&nbsp;light is Jesus&nbsp;</li>\n\t<li>&nbsp;spirit over water 1:2 and mat14:25</li>\n\t<li>uu</li>\n</ol>\n",
             "4": "",
