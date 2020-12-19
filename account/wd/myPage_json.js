@@ -323,7 +323,7 @@ var _bnotes=
             "32": ""
         },
         "12": {
-            "1": "",
+            "1": "<ol><li>Leave parents and United with wife <a href=\"#Gen2:24\">Gen2:24</a></li><li>Reborn. &nbsp;( <a href='#Jhn3:3'>Jhn3:3</a>)</li></ol>",
             "2": "",
             "3": "",
             "4": "",
@@ -640,15 +640,15 @@ var _bnotes=
             "20": ""
         },
         "24": {
-            "1": "",
+            "1": "<ol>\n\t<li>\"隐秘的事、是属耶和华我们　神的、惟有明显的事、是永远属我们和我们子孙的、好叫我们遵行这律法上的一切话。\" (<a href=\"#Deu29:29\">Deu29:29</a> CUVS)</li>\n\t<li>What is the bless? to better understanding the blessing of God. (a) Time: eternal vs temporary. The promise of God never change.&nbsp;&nbsp;(b) Range: human salvation (all nations) vs personal blessing.&nbsp; (c)Vision: visible vs invisible (d)Intellectual: known vs unknown (e)Spiritual: earthly vs heavenly.&nbsp;慈爱诚实</li>\n\t<li>Chinese love blessing (hear,watch, decorating) But don’t know what’s it, the origin.&nbsp;</li>\n</ol>",
             "2": "",
-            "3": "",
+            "3": "<ol><li>Why Canaanites are cursed by Noah. (Why God's love/grace?)&nbsp;</li><li>Cannaanites in OT, Pharisees in NT.&nbsp;</li><li>Missionology: Christians should not marry non-Christian.&nbsp;&nbsp;<a href=\"#Rom12:2\">Rom12:2</a>)</li><li>In general, but not absolute.&nbsp;</li><li>Abraham's obscure and&nbsp;explicit.&nbsp;</li><li>How Abraham loved his son? What is the most important thing?</li><li>--</li></ol>",
             "4": "",
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
-            "9": "",
+            "8": "<ol><li>Christian: once reborn, never go back. If unwilling to follow, the promise will be released.&nbsp;</li><li>Chinese:衣锦还乡 光宗耀祖, love mother land. Miss homeland思乡情怀patriotic education. 我和我的祖国。</li><li>Today: Chinese people are the Canaan land. Chinese culture is the canaanites. Our mission is to enter into it to take to own it.&nbsp;</li></ol>",
+            "9": "<ol>\n\t<li>One mission: find a wife for son. God's mission became Abr's mission became servant's mission. Will mission success?</li>\n\t<li>Marriage: Significance: (1) effect&nbsp;happiness of life,(2)&nbsp;family and offspring, race&nbsp;(3) the mission of God.&nbsp;&nbsp;Marriage is one of the sweet but most difficult and dangerous missions: Leo Tolstoy's novel Anna Karenina is: \"Happy families are all alike; every unhappy family is unhappy in its own way.\" because (a) matching period is short. (b) one-time, one-way ticket: once missed, missed forever; no triage. Every one had&nbsp;good expect and different layers of&nbsp;conditions, like health, wealth, degree, status, name, power, beauty, etc.</li>\n\t<li>What conditions? Ab (a) target—bottom line is&nbsp;no marriage&nbsp;with Canaanite, top goal is from home town family. (b) method—no turning back in person, no face to face interview. For a middleman, it is a mission impossible.&nbsp;&nbsp;</li>\n\t<li>How important?Ab most important mission: 3</li>\n\t<li>then, Why didn't Abraham go himself.</li>\n\t<li>A</li>\n\t<li>A</li>\n\t<li>A</li>\n\t<li>A</li>\n\t<li>A</li>\n\t<li>A</li>\n\t<li>&nbsp;</li>\n</ol>",
             "10": "",
             "11": "",
             "12": "",
@@ -663,7 +663,7 @@ var _bnotes=
             "21": "",
             "22": "",
             "23": "",
-            "24": "",
+            "24": "<div>雅列<img alt=\"Abraham's family tree\" height=\"170\" sizes=\"(max-width: 100px) 50vw, 100px\" src=\"http://www.coffschristadelphians.org/2015/famtreepic.JPG\" /></div>",
             "25": "",
             "26": "",
             "27": "",
@@ -689,7 +689,7 @@ var _bnotes=
             "47": "",
             "48": "",
             "49": "",
-            "50": "",
+            "50": "<ol><li>--<a id=\"247\" class=\"tx txCUVS hiliVrsTxt\" style=\"color: rgb(255, 255, 255);\">说好说歹</a></li></ol>",
             "51": "",
             "52": "",
             "53": "",
@@ -706,7 +706,7 @@ var _bnotes=
             "64": "",
             "65": "",
             "66": "",
-            "67": ""
+            "67": "<ol>\n\t<li>In Bible, no concept of coincidence, chance, opportunity. 偶然,机遇,巧合,机会,不料.&nbsp;Chinese beautiful/attractive story books are&nbsp;无巧不成书. Based on&nbsp;athesim man-made concepts, Buddhism develops 机缘, 缘份. 前世之因,后世之果.因缘果报, 婚姻=&gt;姻缘.&nbsp; These concepts deeply roots in human soul unwittingly. Behind it, its ultimate purpose is to lead people away from God. Its secret goal is &quot;bring down my gray hairs with sorrow to Sheol&quot;.&nbsp;<a>(</a><a href=\"#Gen42:38\">Gen42:38</a>,<a href=\"#Gen44:29\">Gen44:29</a>,<a href=\"#Gen44:31\">Gen44:31</a>&nbsp;ESV)&nbsp;<a id=\"6\">悲悲惨惨的下阴间. With Jesus, no liar/evil trick.</a>&nbsp; The Bible leads to Eternal life.</li>\n\t<li><a id=\"187\">慈爱诚实</a><a>steadfast love and his faithfulness (Esv)&nbsp;kindness and faithfulness (niv) (</a><a href=\"#Gen24:27\">Gen24:27</a>, <a href=\"#Gen24:49\">Gen24:49</a>)&nbsp;&nbsp;The savant of Ab. Elohem YHWY. Family: YHWY.&nbsp;&nbsp;He was blessed through Ab--part of Promise/Bless.</li>\n\t<li>Promis/Bless never fail. Blessing (a) past (b) present (c) future [promise, covenant, prephecy] including: near, mid-term, long-term.&nbsp;&nbsp;</li>\n\t<li>Short-term: like&nbsp;the last Passover feast of Jesus.&nbsp;(<a href=\"#Luk22:11\">Luk22:11</a>-<a href=\"#Luk22:13\">Luk22:13</a>)<br />\n\tMid-term: Jacob/Joseph in Egypt.(<a href=\"#Gen15:13\">Gen15:13</a>)&nbsp;<br />\n\tLong-Term: Jesus. Future-tense: Advent of Jesus.&nbsp;&nbsp;</li>\n\t<li>-</li>\n\t<li>-gcc</li>\n\t<li>-jj</li>\n\t<li>Marriage Freedom vs obedience of God.&nbsp;</li>\n\t<li>&nbsp;</li>\n\t<li>Abraham believed in God love son. Abraham&rsquo;s love son &nbsp;differs fr worldly. Son inherited his heritage and life. He is obscure Jesus. In NT times, son is made clear by Jesus. &nbsp;(<a href=\"#Jhn8:56\">Jhn8:56</a>) anyone who had the son had eternal life. <a href=\"#1Jn5:12\">1Jn5:12</a>. Biological son is not needed.&nbsp;(<a href=\"#Mat12:50\">Mat12:50</a>) Who is my mother? Anyone who follows Him is his brother and sister.&nbsp;</li>\n</ol>\n\n<div>&nbsp;</div>\n\n<div><img src=\"https://wdingbox.github.io/bible_ref/img/beer-lahai-roi_map2.jpg\" width=\"100\" /></div>\n\n<div>&nbsp;</div>\n\n<div><img alt=\"Abraham's family tree\" class=\"hundred\" height=\"70\" src=\"http://www.coffschristadelphians.org/2015/famtreepic.JPG\" width=\"100\" /></div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<ol>\n\t<li>The&nbsp;</li>\n\t<li><img alt=\"\" height=\"70\" src=\"https://sites.suffolk.edu/bible/files/2012/02/Abraham-tree1.gif\" width=\"100\" /></li>\n</ol>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>"
         },
         "25": {
             "1": "",
